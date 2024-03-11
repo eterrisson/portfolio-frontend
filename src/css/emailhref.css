@@ -1,0 +1,15 @@
+.emailhref_button {
+    padding: 10px;
+    color: #3DC2C8;
+    border: 1px solid #3DC2C8;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    transition: color 0.3s ease;
+}
+
+.emailhref_button svg {
+    fill: #3DC2C8;
+}

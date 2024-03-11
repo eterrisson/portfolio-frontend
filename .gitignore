@@ -1,0 +1,11 @@
+node_modules
+certs
+dist
+.DS_Store
+
+# Ignorer tous les fichiers .log
+*.log
+
+# fichiers sensibles
+.env
+sites.conf
